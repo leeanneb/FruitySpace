@@ -1,0 +1,30 @@
+Initialize engine version: 4.0.1f2
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.15.11.8644]
+    Renderer: NVIDIA GeForce 9600M GT 
+    Vendor:   NVIDIA
+    VRAM:     1138 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Desktop\LeeanneBorg2HND1FruitSpace\SpaceInvadersGame\fruitspace_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Desktop\LeeanneBorg2HND1FruitSpace\SpaceInvadersGame\fruitspace_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Desktop\LeeanneBorg2HND1FruitSpace\SpaceInvadersGame\fruitspace_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Desktop\LeeanneBorg2HND1FruitSpace\SpaceInvadersGame\fruitspace_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 174. Operation took 2.997417 ms.
+Platform assembly: F:\Desktop\LeeanneBorg2HND1FruitSpace\SpaceInvadersGame\fruitspace_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 123. Operation took 4.029779 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 125. Operation took 3.002684 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 177. Operation took 2.825626 ms.
